@@ -23,12 +23,21 @@ url: "http://recursive.world" # the base hostname & protocol for your site, e.g.
 twitter_username: adds68
 github_username:  wetrain
 
+enabled: all
+enabled:
+  - categories
+enabled:
+  - year
+  - month
+  - tags
+
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-archives
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
