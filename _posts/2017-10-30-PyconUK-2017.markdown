@@ -1,0 +1,67 @@
+---
+layout: post
+title:  "PyConUK 2017"
+date:   2017-10-30 00:39:33 +0100
+categories: into meta
+---
+So I attended PyConUk 2017!
+
+This was my first conference as an employee for Codethink Ltd. but my second time visiting PyConUK!
+
+
+The conference was held in Cardiff, Wales. The first PyCon i attended was hosten in Coventry, England, so i was excited to see the new venue and #
+as this was also my first time to visit Cardiff, i was also excited to visit!
+
+I arrived with a work Colleague on the 26th October 2017, for the first day of the conference and the venue was fantastic,a s you can see in the photo below:
+
+![PyConUK]({{ site.url }}/downloads/PyConUK-venue.jpg)
+
+As we our company kindly sponsored the event, our first task was to set up a stand in the even hall of the building, luckily we didn't have to man it, so we had lots of time attend talks \o/
+
+![pycon-stand]({{ site.url }}/downloads/PyConUK-stand.jpg)
+
+We ventured into the main hall for the first Keynote speaker, which was:
+
+## Unsafe at any speed - Rae Knowler
+
+This talk was fantastic, a great keynote speech. Rae discussed the problems with software "defaults" and how they can be dangerous, if not defined/configured correctly.
+Rae discussed how the automotive industry has developed many standards, but they also suffered from poor regulation and it has taken many disasters/errors to learn and develop more trustable
+standards, procedures. The talks was inspired by a book called Unsafe at any speed (can be found Amazon). Rae, presented many cases where pre-defined defaults caused some quite severe malfunctions/
+unexpected behaviour to happen in the software world, such as MongoDB exposing insecure databases, CKAN open data framework allowing modification to be made by unauthorised people and also how many
+yaml parsers default to executing arbitrary code when parsing raw YAML.
+
+The talk was very well executed and was a great start to the even, Rae raised some clear points on how setting defaults without any consideration for the end user can be bad, as they may not always understand 
+the reason they are set to that specific default value and therefore will not understand the risks these defaults raise.
+
+PyCon is a very large conference and this year was the most attended conference yet, this meant there were a diverse range of talks and also a lot of rooms. Throughout the entire conference i attended many many talks, 23 in total! 
+So i will not be reviewing every talk, notes on each talk can be found [here](http://www.recursive.world/resources/conferences/pycon17-resource-conferences.html), however i will review some of my favourite talks.
+
+## Programming Music for Performance - Ryan Kirkbridge
+
+This talk was by Ryan, who was a PHD student, interested in programming music, he was big in the 'AlgoRave scene' and performed a live code performance on stage.
+he has produced his own open source code->music tool called FoxDot, which was implemented in Python and show how useful, powerful the ability to override Python magic methods on custom classes
+in order to produce custom logic for addition, subtraction etc. The talk was very fascinating to watch.
+
+## Understanding natural language word vectors - Marco Bonzanini
+
+The talk tried to introduce the topic of 'word vectors', which are pre-defined list of words passed into layered neural network, the network then trains on these words and produced a vector space of words, which you can imply meaning from, such a similar words, or by using set theory on words, to find the closest match to 2 specific words. The research was pioneered at Google under the name 'word2vec', which is used to describe the method used. I could see this type of research being very useful when trying to understand sentiment analysis in text.
+
+## Visualising environmental data with Bokeh in Python - marcus Donelly
+
+This talk was extremely fascinating, Marcus wanted a nice way to load/parse/scrape/visualize data, all in one nice pipeline, he tried many javascript tools, but felt Python had many more useful libraries for loading/parsing the data, this lead him to discover Bokeh, a Python project, which allows web hosted Javascript visualizations to be written in Python. He went though many examples of graphs he has produced with Bokeh, on open sea data he had parsed in Python from the NOAA project. The graphs were extremely interactive and detailed. I found this to be a very useful tool to learn in the future with many different use cases in mind.
+
+## MyPy the good the bad & the ugly - David Sim
+
+This talk was the most in-depth talk i went to in terms of code performance/reliability in Python, David worked for a company in Cambridge, England, who provided large scale search engine technology for clients. He joined the company and wrote a lot of code in Python, which eventually grew to a large Python code base, with multiple users/developers. He decided to try and use MyPy, which provides static type checking functionality to Python code, to try and make bug-finding, documenting, maintaining the code bases easier. He discussed many pros/cons faced during the refactor, but stated the effort required to do it, is not paying off as more and more bugs are being raised throughout the code base. He said MyPy has a long way to go, but it is something which very useable currently and worth taking a look at.
+
+## Good
+
+PyconUk 2017 overall was great experience, being around so many intelligent/gifted/creative people is a feeling that is hard to describe, it is very motivating and with such a wide veriety of talks, it is hard to not learn or discover new technologies. The social events are also extremely fun/interesting, discussing many different topics over a pint, is something that is also priceless. I would recommend attending a conference in general, but if you enjoy Pycon, then PyconUk should be the one for you! Cardiff is also a beautiful city, with a lot to do and see, the people are lovely and they also have some great beer!
+
+## Bad
+
+I would say 'bad' is a bit extreme, but with the advent of RaspberryPi & MicroBit, the education world is embracing Python with open arms, which is great and shouldn't really be under 'Bad', but this means Pycon is becoming filled with many talks on Education, and as a software engineer, these talks don't seem terribly relevant to me, so my only feedback would be to have some form of entirely Educational track, which caters for the educational professionals, so A) people don't over crowd education talks, with the assumption they are technical (which i did) B) rooms, talks do not become confusing and have to move tracks/rooms every day.
+
+## Conclusion
+
+Overall i feel my first conference experience with work was fantastic and i learnt a lot/made some great memories, so i would like to thank Codethink for sponsoring me to go! 
