@@ -9,14 +9,14 @@ So I attended PyConUk 2017!
 This was my first conference as an employee for Codethink Ltd. but my second time visiting PyConUK!
 
 
-The conference was held in Cardiff, Wales. The first PyCon i attended was hosten in Coventry, England, so i was excited to see the new venue and #
-as this was also my first time to visit Cardiff, i was also excited to visit!
+The conference was held in Cardiff, Wales. The first PyCon i attended was hosted in Coventry, England, so i was excited to see the new venue and
+as this was also my first time to visit Cardiff, i was also excited to visit a new city!
 
-I arrived with a work Colleague on the 26th October 2017, for the first day of the conference and the venue was fantastic,a s you can see in the photo below:
+I arrived with a work Colleague on the 26th October 2017, for the first day of the conference and the venue was fantastic, as you can see in the photo below:
 
 ![PyConUK]({{ site.url }}/downloads/PyConUK-venue.jpg)
 
-As we our company kindly sponsored the event, our first task was to set up a stand in the even hall of the building, luckily we didn't have to man it, so we had lots of time attend talks \o/
+As our company kindly sponsored the event, our first task was to set up a stand in the even hall of the building, luckily we didn't have to man it, so we had lots of time attend talks \o/
 
 ![pycon-stand]({{ site.url }}/downloads/PyConUK-stand.jpg)
 
@@ -48,7 +48,7 @@ The talk tried to introduce the topic of 'word vectors', which are pre-defined l
 
 ## Visualising environmental data with Bokeh in Python - marcus Donelly
 
-This talk was extremely fascinating, Marcus wanted a nice way to load/parse/scrape/visualize data, all in one nice pipeline, he tried many javascript tools, but felt Python had many more useful libraries for loading/parsing the data, this lead him to discover Bokeh, a Python project, which allows web hosted Javascript visualizations to be written in Python. He went though many examples of graphs he has produced with Bokeh, on open sea data he had parsed in Python from the NOAA project. The graphs were extremely interactive and detailed. I found this to be a very useful tool to learn in the future with many different use cases in mind.
+This talk was extremely fascinating, Marcus wanted a nice way to load/parse/scrape/visualize data, all in one nice pipeline, he tried many Javascript tools, but felt Python had many more useful libraries for loading/parsing the data, this lead him to discover Bokeh, a Python project, which allows web hosted Javascript visualizations to be written in Python. He went though many examples of graphs he has produced with Bokeh, on open sea data he had parsed in Python from the NOAA project. The graphs were extremely interactive and detailed. I found this to be a very useful tool to learn in the future with many different use cases in mind.
 
 ## MyPy the good the bad & the ugly - David Sim
 
@@ -56,7 +56,7 @@ This talk was the most in-depth talk i went to in terms of code performance/reli
 
 ## Good
 
-PyconUk 2017 overall was great experience, being around so many intelligent/gifted/creative people is a feeling that is hard to describe, it is very motivating and with such a wide veriety of talks, it is hard to not learn or discover new technologies. The social events are also extremely fun/interesting, discussing many different topics over a pint, is something that is also priceless. I would recommend attending a conference in general, but if you enjoy Pycon, then PyconUk should be the one for you! Cardiff is also a beautiful city, with a lot to do and see, the people are lovely and they also have some great beer!
+PyconUk 2017 overall was great experience, being around so many intelligent/gifted/creative people is a feeling that is hard to describe, it is very motivating and with such a wide variety of talks, it is hard to not learn or discover new technologies. The social events are also extremely fun/interesting, discussing many different topics over a pint, is something that is also priceless. I would recommend attending a conference in general, but if you enjoy Pycon, then PyconUk should be the one for you! Cardiff is also a beautiful city, with a lot to do and see, the people are lovely and they also have some great beer!
 
 ## Bad
 
