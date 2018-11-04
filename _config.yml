@@ -39,7 +39,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
 
-category-list: [Code-snips, Editors, Math, Unix, Python, Vim, BuildStream, Conferences]
+category-list: [Code-snips, Editors, Math, Unix, Python, Vim, Freedesktop-sdk, BuildStream, Conferences]
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
